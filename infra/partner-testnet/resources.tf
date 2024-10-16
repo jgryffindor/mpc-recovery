@@ -1,6 +1,6 @@
 terraform {
   backend "gcs" {
-    bucket = "multichain-terraform-{your_entity_name}"
+    bucket = "multichain-terraform-lifted-prod"
     prefix = "state/testnet"
   }
 

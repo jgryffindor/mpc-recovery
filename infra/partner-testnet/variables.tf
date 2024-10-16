@@ -98,7 +98,7 @@ variable "static_env" {
     },
     {
       name  = "MPC_INDEXER_START_BLOCK_HEIGHT"
-      value = 158767549
+      value = 176994756
     },
     {
       name  = "AWS_DEFAULT_REGION"
@@ -106,7 +106,7 @@ variable "static_env" {
     },
     {
       name  = "MPC_GCP_PROJECT_ID"
-      value = "<your-project-id>"
+      value = "near-mpc-000"
     },
     {
       name  = "MPC_WEB_PORT"
